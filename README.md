@@ -198,3 +198,5 @@ _Finalize deployment:_
   ```bash
   systemctl restart liquidsoap@klangbecken
   ```
+
+For detailed information on how to set-up a server see [Deployment](doc/deployment.md).
